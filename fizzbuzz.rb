@@ -11,7 +11,7 @@ numbers.each do |num|
 		print "#{num} : "
 		puts "FizzBuzz"
 	else
-		print "#{num}"
+		puts "#{num}"
 	end
 end
 		
